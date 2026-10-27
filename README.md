@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="/home/peter/Downloads/herd.png">
   <h1>HERD</h1>
   <p><strong>Move as one. Think as one. Distribute as many.</strong></p>
 </div>
